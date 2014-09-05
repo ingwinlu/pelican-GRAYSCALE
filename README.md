@@ -18,8 +18,11 @@ section: intro
 ```
 See the `EXAMPLE` folder for more details.
 
+###live
+[live]
 ###preview
 ![preview](pelican-grayscale.PNG "Preview Image")
 
 
 [grayscale]: http://startbootstrap.com/templates/grayscale/  "GRAYSCALE"
+[live]: http://dev.heroicdebugging.biz/ "GRAYSCALE DEV"
