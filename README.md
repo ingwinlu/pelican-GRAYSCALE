@@ -19,7 +19,7 @@ section: intro
 See the `EXAMPLE` folder for more details.
 
 ###live
-[live]
+See a [live] example of the page.
 ###preview
 ![preview](pelican-grayscale.PNG "Preview Image")
 
